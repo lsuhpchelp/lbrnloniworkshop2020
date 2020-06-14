@@ -13,3 +13,8 @@
 
 ## Survey
 [Bootcamp Survey Link](https://forms.office.com/Pages/ResponsePage.aspx?id=P61NLa5Q2UeDoJrisfRm-Gquet-W2uBIu1blHkiYGj1UQkRQNUNKQVA2RjRaWUVIRUtRSFU3T1A1Ry4u)
+
+## Registration and attendance statistics
+[Registration](https://public.tableau.com/views/lbrn_regist/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
+
+[Attendance](https://public.tableau.com/views/lbrn_attend/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
