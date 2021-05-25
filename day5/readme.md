@@ -6,5 +6,5 @@
 * **keras_mnist_v4_cnn.ipynb**: convolutional neural network example
 * **keras_mnist_v5_cnn_lenet.ipynb**: convolutional neural network, a LeNet example
 
-** If you are not able to open the jupyter notebook from github to Colab, try using the below link:
+** If you are not able to open the jupyter notebook from github to Colab, try using the below link by pasting the link of the notebook from github:
 https://nbviewer.jupyter.org/
